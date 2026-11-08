@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 340" width="920" height="340" role="img" aria-labelledby="t d">
+  <title id="t">Tesla Roadster 2026 — Ano White side profile</title>
+  <desc id="d">Wedge-shaped second-generation Tesla Roadster with gold-glazed canopy, deployed rear wing, six-spoke wheels and rear thruster nozzles, drawn with smooth rounded curves.</desc>
+  <defs>
+    <linearGradient id="body" x1="0" y1="0.05" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#eef0f3"/>
+      <stop offset="0.8" stop-color="#d3d8dd"/>
+      <stop offset="1" stop-color="#c3c9d0"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0.25" y2="1">
+      <stop offset="0" stop-color="#352911"/>
+      <stop offset="0.12" stop-color="#241c0e"/>
+      <stop offset="0.45" stop-color="#191309"/>
+      <stop offset="1" stop-color="#100e08"/>
+    </linearGradient>
+    <linearGradient id="darkBand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a3e43"/>
+      <stop offset="1" stop-color="#25282c"/>
+    </linearGradient>
+    <linearGradient id="carbon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#44484d"/>
+      <stop offset="1" stop-color="#232629"/>
+    </linearGradient>
+    <linearGradient id="spoke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e6e9ec"/>
+      <stop offset="1" stop-color="#8f969d"/>
+    </linearGradient>
+    <radialGradient id="tire" cx="0.35" cy="0.3" r="1">
+      <stop offset="0" stop-color="#33373b"/>
+      <stop offset="0.55" stop-color="#1e2124"/>
+      <stop offset="1" stop-color="#101214"/>
+    </radialGradient>
+    <path id="silhouette" d="M 34 192
+      C 28 180 32 168 48 162
+      C 104 138 176 114 244 96
+      C 292 68 330 50 376 38
+      C 386 34 394 31 404 31
+      C 420 31 432 33 444 36
+      C 544 44 646 54 726 60
+      C 770 64 796 65 804 72
+      C 812 78 815 88 814 100
+      C 813 128 807 152 800 172
+      C 792 198 782 218 770 230
+      C 762 239 750 244 736 246
+      L 710 248
+      A 86 86 0 0 0 578 248
+      L 254 248
+      A 86 86 0 0 0 122 248
+      L 78 244
+      C 58 238 42 222 39 206
+      C 37.5 200 36 195 34 192 Z"/>
+    <clipPath id="bodyClip"><use href="#silhouette"/></clipPath>
+    <g id="wheel">
+      <circle r="83" fill="url(#tire)"/>
+      <circle r="83" fill="none" stroke="#3a3f44" stroke-width="1.4" opacity="0.6"/>
+      <circle r="46" fill="#141518" opacity="0.9"/>
+      <circle r="50" fill="#1c1f22"/>
+      <circle r="52" fill="none" stroke="#aeb3b9" stroke-width="2.4"/>
+      <g stroke-linejoin="round" stroke-linecap="round">
+        <g>
+          <path d="M -3.2 -49 L 3.2 -49 L 2.6 -17 L -2.6 -17 Z" fill="url(#spoke)"/>
+          
+        </g>
+        <g transform="rotate(60)">
+          <path d="M -3.2 -49 L 3.2 -49 L 2.6 -17 L -2.6 -17 Z" fill="url(#spoke)"/>
+          
+        </g>
+        <g transform="rotate(120)">
+          <path d="M -3.2 -49 L 3.2 -49 L 2.6 -17 L -2.6 -17 Z" fill="url(#spoke)"/>
+          
+        </g>
+        <g transform="rotate(180)">
+          <path d="M -3.2 -49 L 3.2 -49 L 2.6 -17 L -2.6 -17 Z" fill="url(#spoke)"/>
+          
+        </g>
+        <g transform="rotate(240)">
+          <path d="M -3.2 -49 L 3.2 -49 L 2.6 -17 L -2.6 -17 Z" fill="url(#spoke)"/>
+          
+        </g>
+        <g transform="rotate(300)">
+          <path d="M -3.2 -49 L 3.2 -49 L 2.6 -17 L -2.6 -17 Z" fill="url(#spoke)"/>
+          
+        </g>
+      </g>
+      <circle r="9.5" fill="#101215" stroke="#42474d" stroke-width="1.4"/>
+      <circle r="3.2" fill="#b9bfc4"/>
+      <path d="M -4.5 -2.4 L 4.5 -2.4 M 0 -2.4 L 0 4.4" stroke="#c9ced3" stroke-width="1.6" stroke-linecap="round"/>
+    </g>
+  </defs>
+
+  <!-- deployed active rear wing -->
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 734 68 L 752 54 M 776 74 L 790 58" stroke="#2f3337" stroke-width="6"/>
+    <path d="M 704 63
+      C 703 55.5 707 50.5 715 50
+      C 760 48 800 45.5 837 44
+      C 846 43.5 851.5 46.5 851.5 50
+      C 851.5 54 846 56.5 837 56
+      C 796 59 756 61.5 716 62.5
+      C 706 62.8 704.5 63.4 704 63 Z" fill="url(#carbon)"/>
+    <path d="M 716 49.5 C 760 47.8 800 45.6 834 45" stroke="#a6acb2" stroke-width="1.4" opacity="0.65" fill="none"/>
+    <ellipse cx="849" cy="50" rx="3.4" ry="10" fill="#4a4e53"/>
+  </g>
+
+  <!-- unibody -->
+  <circle cx="188" cy="193" r="84.5" fill="#2b2e32"/><circle cx="644" cy="193" r="84.5" fill="#2b2e32"/><use href="#silhouette" fill="url(#body)"/>
+
+  <g clip-path="url(#bodyClip)" stroke-linecap="round" stroke-linejoin="round">
+    <!-- dark rocker band / aero skirts -->
+    <path d="M 26 262 Q 240 218 512 228 Q 652 234 816 248 L 816 262 Z" fill="url(#darkBand)" opacity="0.95"/>
+    <!-- rear diffuser -->
+    <path d="M 676 262 Q 696 238 736 230 L 798 242 L 806 262 Z" fill="#202327"/>
+    <!-- roof edge sheen -->
+    <path d="M 236 94 C 320 60 380 36 440 33 C 540 40 640 50 726 60" fill="none" stroke="#ffffff" stroke-width="5" opacity="0.4"/>
+    <!-- glass canopy, tapering into rear buttress -->
+    <path d="M 240 100
+      C 340 96 470 98 580 96
+      C 610 94 628 90 640 84
+      L 650 52
+      C 560 34 470 26 420 28
+      C 388 30 350 46 310 68
+      C 292 78 258 93 240 100 Z" fill="url(#glass)"/>
+    <!-- golden glaze highlights -->
+    <path d="M 258 92 C 300 74 346 50 384 41 C 404 37 424 37 444 38" fill="none" stroke="#c9a855" stroke-width="1.6" opacity="0.5"/>
+    <path d="M 452 40 C 540 46 600 50 644 60" fill="none" stroke="#7a6132" stroke-width="1.4" opacity="0.45"/>
+    <!-- T-top roof panel seam -->
+    <path d="M 560 38 C 566 54 572 74 576 94" fill="none" stroke="#cfc09a" stroke-width="1.1" opacity="0.35"/>
+    <!-- A-pillar frame -->
+    <path d="M 244 100 C 264 92 292 76 312 68 C 350 46 388 35 424 33" fill="none" stroke="#6b6052" stroke-width="1.5" opacity="0.55"/>
+    <!-- beltline flush trim -->
+    <path d="M 240 102 C 340 96 470 98 640 84" fill="none" stroke="#b7b2a6" stroke-width="1.8" opacity="0.75"/>
+    <!-- character crease running fender to tail -->
+    <path d="M 392 122 C 500 114 610 110 680 114 C 736 117 786 128 808 142" fill="none" stroke="#d6dbe0" stroke-width="2.2" opacity="0.75"/>
+    <!-- door shut line, butterfly door -->
+    <path d="M 478 112 C 476 158 470 204 452 240" fill="none" stroke="#c4cad1" stroke-width="1.2" opacity="0.45"/>
+    <!-- hood cut above front arch -->
+    <path d="M 258 100 C 264 140 262 190 254 222" fill="none" stroke="#bfc6cd" stroke-width="1.4" opacity="0.5"/>
+    <!-- DRL strip wrapping the nose top -->
+    <path d="M 44 168 C 128 128 200 106 244 98" fill="none" stroke="#f4f7fa" stroke-width="3.2" opacity="0.8"/>
+    <!-- hidden pop-down headlight seam -->
+    <path d="M 52 178 C 100 156 150 138 196 124" fill="none" stroke="#b9bfc6" stroke-width="1.3" opacity="0.45"/>
+    <!-- camera winglet with repeater, behind front wheel -->
+    <path d="M 348 123 Q 364 113 384 116 Q 374 126 354 126 Z" fill="#c7cdd2"/>
+    <circle cx="366" cy="118" r="2.6" fill="#e8482f"/>
+    <!-- fender barge-board slat -->
+    <path d="M 302 160 C 308 167 310 175 307 182" fill="none" stroke="#9aa0a7" stroke-width="2.6" opacity="0.3"/>
+    <!-- taillight: full-width bar corner -->
+    <path d="M 807 86 C 810.5 104 811 124 808 146 C 806 156 803.5 162 800.5 168" fill="none" stroke="#e02a35" stroke-width="4.5" opacity="0.95"/>
+    <path d="M 807 86 C 810.5 104 811 124 808 146 C 806 156 803.5 162 800.5 168" fill="none" stroke="#ff6a70" stroke-width="1.4" opacity="0.8"/>
+    <!-- cold-gas thruster nozzles -->
+    <circle cx="774" cy="224" r="6" fill="#17191c" stroke="#5c6268" stroke-width="1.6"/>
+    <circle cx="793" cy="216" r="6" fill="#17191c" stroke="#5c6268" stroke-width="1.6"/>
+  </g>
+
+  <!-- wheels -->
+  <use href="#wheel" transform="translate(188 193)"/>
+  <use href="#wheel" transform="translate(644 193)"/>
+</svg>
